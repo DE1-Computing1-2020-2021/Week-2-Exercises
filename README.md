@@ -1,12 +1,20 @@
 # Week-2-Exercises
-Exercises for Week 2 of Computing 1 for the Dyson School of Design Engineering at Imperial College London.
+*Exercises for Week 2 of Computing 1 for the Dyson School of Design Engineering at Imperial College London.*
 
 
 # Session 1 - The Command Line
 
-Go to [this site to download a zip file](https://github.com/veltman/clmystery) and the instructions to play the game. It is a text-based game to help you get comfortable navigating around the command line. Yes, you could easily cheat! But the point is to use the game to make learning these commands more fun. Could you give boring exercises if you prefer.
+Go to [this site to download a zip file](https://github.com/veltman/clmystery) and for the instructions to play the game. 
 
-Can work on your own or in pairs.
+To download, click on the green `Code` button which will bring up a menu. Click on the `Download ZIP` option. Unzip the file when finished downloading. Feel free to move the unzipped folder and its contents to any preferred location on your computer.
+
+![Download zip button](./img/download-screenshot.png)
+
+It is a text-based game to help you get comfortable navigating around the command line. Scroll down on the download page for the starting instructions.
+
+(Yes, you could easily cheat! But the point is to use the game to make learning these commands more fun. Could you give boring exercises if you prefer!)
+
+You can work on your own or in small groups of 2-3.
 
 # Session 2 - Python Data Types and Scripting
 
